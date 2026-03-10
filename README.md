@@ -31,9 +31,8 @@ I'm a **Computer Programming student** at Dokuz Eylul University, focused on bui
 - 🛡️ **Reliability & Security:** Integrating **Unit Testing** frameworks (like Jest/Mocha) and implementing **JWT-based authentication** to build secure, production-ready applications.
 - ☁️ **Cloud Awareness:** Exploring **Docker** and cloud deployment basics to understand the full lifecycle of modern web applications.
 ### 📊 GitHub Stats
-![Irem's GitHub stats](https://github-readme-stats.vercel.app/api?username=irembadak&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irembadak&layout=compact&theme=radical)
-
+![Irem's GitHub stats](https://github-readme-stats.vercel.app/api?username=irembadak&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irembadak&layout=compact&theme=radical&hide_progress=false)
 ---
 
 ### 📫 Let's Connect!
