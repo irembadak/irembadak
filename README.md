@@ -42,8 +42,8 @@ I'm a **Computer Programming student** at Dokuz Eylul University, focused on bui
 ---
 
 ### 📊 GitHub Stats
-![Irem's GitHub stats](https://github-readme-stats.vercel.app/api?username=irembadak&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irembadak&layout=compact&theme=radical&hide_progress=false)
+![Irem's GitHub stats](https://github-readme-stats.vercel.app/api?username=irembadak&show_icons=true&theme=radical&count_private=true&include_all_commits=true&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irembadak&layout=compact&theme=radical&hide_progress=false&v=1)
 
 ---
 
